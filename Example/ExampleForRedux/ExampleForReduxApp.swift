@@ -8,6 +8,7 @@
 
 import SwiftUI
 
+
 @main
 struct ExampleForReduxApp: App {
     var body: some Scene {
