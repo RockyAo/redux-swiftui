@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_redux_swiftui_ExampleVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_redux_swiftui_ExampleVersionString[];
+FOUNDATION_EXPORT double Pods_ExampleForReduxVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_ExampleForReduxVersionString[];
 
