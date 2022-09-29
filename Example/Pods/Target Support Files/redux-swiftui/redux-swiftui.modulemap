@@ -1,0 +1,6 @@
+framework module redux_swiftui {
+  umbrella header "redux-swiftui-umbrella.h"
+
+  export *
+  module * { export * }
+}

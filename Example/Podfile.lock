@@ -1,0 +1,16 @@
+PODS:
+  - redux-swiftui (1.0.0)
+
+DEPENDENCIES:
+  - redux-swiftui (from `../`)
+
+EXTERNAL SOURCES:
+  redux-swiftui:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  redux-swiftui: cb73d994e643c007ab035b925af2e793cd7b2ec3
+
+PODFILE CHECKSUM: fe24a55dce66be19fd1f2c920c416e6ecaaa803f
+
+COCOAPODS: 1.11.3

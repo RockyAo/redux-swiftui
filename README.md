@@ -22,7 +22,7 @@ pod 'redux-swiftui'
 
 ## Author
 
-yun.ao, yun.ao@ninebot.com
+Rocky Ao
 
 ## License
 

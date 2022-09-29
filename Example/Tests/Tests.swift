@@ -1,5 +1,4 @@
 import XCTest
-import redux-swiftui
 
 class Tests: XCTestCase {
     
